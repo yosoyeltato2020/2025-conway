@@ -1,8 +1,8 @@
 from random import randint
 
 config = {
-    "ancho": 7,
-    "alto": 7
+    "ancho": 10,
+    "alto": 10
 }
 
 
